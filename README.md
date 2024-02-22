@@ -1,0 +1,1 @@
+Este programa permite sumar dos números introducidos por el usuario.
